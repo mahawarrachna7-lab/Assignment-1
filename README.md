@@ -1,21 +1,4 @@
-diabetes-prediction-logistic-regression/
-│
-├── data/
-│   └── diabetes2.csv          # Dataset (not included in repo, add manually)
-│
-├── notebooks/
-│   └── diabetes_prediction.ipynb   # Jupyter notebook with full workflow
-│
-├── src/
-│   └── model.py               # Python script for training and evaluation
-│
-├── results/
-│   └── confusion_matrix.png   # Model confusion matrix plot
-│   └── metrics.txt            # Saved evaluation metrics
-│
-├── requirements.txt           # Dependencies
-├── README.md                  # Project overview and instructions
-└── .gitignore                 # Ignore unnecessary files
+
 # 🩺 Diabetes Prediction Using Logistic Regression
 
 This project predicts the presence of diabetes in patients using diagnostic health parameters and a Logistic Regression model.
